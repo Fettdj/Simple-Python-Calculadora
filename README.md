@@ -19,7 +19,7 @@ Este repositorio contiene una calculadora básica escrita en Python que puede re
 ## Instalación
 
 1. Clone este repositorio en su computadora local:
-git clone https://github.com/your_username/Simple-Python-Calculadora.git
+git clone https://github.com/Fettdj/Simple-Python-Calculadora.git
 
 
 2. Navegue hasta el directorio del repositorio clonado:
